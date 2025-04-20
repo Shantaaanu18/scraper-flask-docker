@@ -1,8 +1,8 @@
-#Web Scraper 
+# 🤖 Web Scraper 
 
 A friendly tool that automates website data collection for you*
 
- Why Web Scraper
+ ## 🌟 Why Web Scraper
 - **No coding needed** - Works out of the box
 - **Handles JavaScript sites** - Unlike simple scrapers
 - **Lightweight API** - Get your data in JSON format
